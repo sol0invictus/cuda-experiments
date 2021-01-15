@@ -1,4 +1,4 @@
-Int8 matrix multiplication example
+Int8 matrix multiplication via Cublas-Lt
 ----------------------------------
 
 This example showcases matrix multiplication via Cublas-LT library.
